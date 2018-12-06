@@ -9,7 +9,7 @@
 /**
  * Description of ClubName
  *
- * @author dhigley
+ * @author Kajal.Nanaiah
  */
 class ClubName {
     //put your code here

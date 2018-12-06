@@ -9,7 +9,7 @@
 /**
  * Description of DBConnect
  *
- * @author dhigley
+ * @author Kajal.Nanaiah
  */
 class DBConnect {
     //put your code here

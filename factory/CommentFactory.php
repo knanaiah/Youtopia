@@ -9,7 +9,7 @@
 /**
  * Description of CommentFactory
  *
- * @author dhigley
+ * @author Kajal.Nanaiah
  */
 
 require_once $_SERVER['DOCUMENT_ROOT'] . '/youtopia/Comments/Comments.php';

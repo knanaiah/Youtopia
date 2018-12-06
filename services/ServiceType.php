@@ -9,7 +9,7 @@
 /**
  * Description of ServiceType
  *
- * @author dhigley
+ * @author Kajal.Nanaiah
  */
 class ServiceType {
     //put your code here

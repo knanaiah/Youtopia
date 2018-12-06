@@ -9,7 +9,7 @@
 /**
  * Description of PostFactory
  *
- * @author dhigley
+ * @author Kajal.Nanaiah
  */
 
 require_once $_SERVER['DOCUMENT_ROOT'] . '/youtopia/postings/Post.php';

@@ -9,7 +9,7 @@
 /**
  * Description of Posting
  *
- * @author dhigley
+ * @author Kajal.Nanaiah
  */
 class Posting {
     //put your code here
