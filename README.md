@@ -16,4 +16,4 @@ I did not think I stood a chance. Not sure
 what happened to the Facebook idea, but another
 similar app has since been on the market.
 It was a great learning experience and fun
-stuff too!!!
+stuff too!!! I programmed in PHP as a way to teach myself the language, since Java was my primary language as a software engineer in the workforce. Java is still my favorite language. I believe I can code in any language - it's the design that really counts - Manageable, scaleable, easy to troubleshoot and modify.
